@@ -1,2 +1,2 @@
 # Webdev
-This a page where i post my webdev learnings from cohort3
+This is a page where i post my webdev learnings from cohort3
